@@ -1,0 +1,14 @@
+<resources>
+    <string name="txt_splash">Splash</string>
+    <string name="data">r oiqw roiqwroiqw roiqryhoiqw roiqwroi qori oi i yoiryoiqwroiqwr r oiqw roiqwroiqw roiqryhoiqw roiqwroi qori oi i yoiryoiqwroiqwr r oiqw roiqwroiqw roiqryhoiqw roiqwroi qori oi i yoiryoiqwroiqwr r oiqw roiqwroiqw roiqryhoiqw roiqwroi qori oi i yoiryoiqwroiqwr r oiqw roiqwroiqw roiqryhoiqw roiqwroi qori oi i yoiryoiqwroiqwr</string>
+    <string name="settings">Settings</string>
+    <string name="invalid_credentials">You input invalid credentials</string>
+    <string name="bad_request">You have wrong request</string>
+    <string name="error_something_wrong">You have find some thing wrong. Please try again.</string>
+    <string name="test_post_method">Post Method</string>
+    <string name="test_get_method">Get Method</string>
+    <string name="test_get_method_query">Get Method with Query</string>
+    <string name="test_path_method">Path Method</string>
+    <string name="test_upload_image">Upload Image</string>
+    <string name="test_delete_method">Delete Method</string>
+</resources>

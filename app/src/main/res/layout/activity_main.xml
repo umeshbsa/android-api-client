@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btn_post_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_post_method" />
+
+        <Button
+            android:id="@+id/btn_get_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_get_method" />
+
+        <Button
+            android:id="@+id/btn_get_method_query"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_get_method_query" />
+
+        <Button
+            android:id="@+id/btn_path_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_path_method" />
+
+        <Button
+            android:id="@+id/btn_image_upload"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_upload_image" />
+
+        <Button
+            android:id="@+id/btn_delete_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/test_delete_method" />
+
+    </LinearLayout>
+
+
+</ScrollView>
